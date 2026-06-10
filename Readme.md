@@ -5,4 +5,4 @@ A curated collection of interesting real-world datasets for Exploratory Data Ana
 ---
 | # | Dataset | Description | Link |
 |---|----------|-------------|------|
-| 1 | Atlas of Ocean Microplastics 🌊 | Global dataset of microplastic concentrations across oceans. | [Link]() |
+| 1 | Atlas of Ocean Microplastics 🌊 | Global dataset of microplastic concentrations across oceans. | [Link](https://aomi.env.go.jp/) |
