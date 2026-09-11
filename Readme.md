@@ -50,8 +50,7 @@ Happy exploring! 🎯
 | 27 | Annotated Potholes Image Dataset | Fully bounding-box annotated image dataset of potholes and damaged roads. | [Link](https://www.kaggle.com/datasets/chitholian/annotated-potholes-dataset) |
 | 28 | Vehicle Dataset for YOLO | 3000 vehicle images containing 6 classes for YOLO object detection | [Link](https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo) |
 | 29 | MIMIC ICU Biosignals Database | EKGs, oxygen saturation, and blood pressures from 90 real ICU patients | [Link](https://www.kaggle.com/datasets/protobioengineering/mimic-icu-biosignals-database-simple-csvs) |
-| 30 | Seizure Epilepcy CHB MIT EEG dataset pediatric | Collection of EEG recordings of 22 pediatric subjects with intractable seizures
- | [Link](https://www.kaggle.com/datasets/abhishekinnvonix/seizure-epilepcy-chb-mit-eeg-dataset-pediatric) |
+| 30 | Seizure Epilepcy CHB MIT EEG dataset pediatric | Collection of EEG recordings of 22 pediatric subjects with intractable seizures. | [Link](https://www.kaggle.com/datasets/abhishekinnvonix/seizure-epilepcy-chb-mit-eeg-dataset-pediatric) |
 
 
 
