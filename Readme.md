@@ -51,6 +51,16 @@ Happy exploring! 🎯
 | 28 | Vehicle Dataset for YOLO | 3000 vehicle images containing 6 classes for YOLO object detection | [Link](https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo) |
 | 29 | MIMIC ICU Biosignals Database | EKGs, oxygen saturation, and blood pressures from 90 real ICU patients | [Link](https://www.kaggle.com/datasets/protobioengineering/mimic-icu-biosignals-database-simple-csvs) |
 | 30 | Seizure Epilepcy CHB MIT EEG dataset pediatric | Collection of EEG recordings of 22 pediatric subjects with intractable seizures. | [Link](https://www.kaggle.com/datasets/abhishekinnvonix/seizure-epilepcy-chb-mit-eeg-dataset-pediatric) |
+| 31 | Trending Youtube Video Statistics (113 Countries) | Top 50 latest trending videos on YouTube across 113 countries with daily updates. | [Link](https://www.kaggle.com/datasets/asaniczka/trending-youtube-videos-113-countries) |
+| 32 | English-French Translation Dataset | French/English parallel texts for training translation models. Over 22.5 million sentences in French and English. | [Link](https://www.kaggle.com/datasets/dhruvildave/en-fr-translation-dataset) |
+| 33 | Clothing Industry Egocentric Video Dataset | This dataset contains egocentric (first-person point-of-view) video recordings captured within clothing manufacturing environments. | [Link](https://www.kaggle.com/datasets/verbosetechlabsllp/clothing-industry-egocentric-video-dataset) |
+| 34 | Daily Public Opinion on Israel-Palestine War | Comments from reddit on posts related to the current war. Updated Daily | [Link](https://www.kaggle.com/datasets/asaniczka/reddit-on-israel-palestine-daily-updated) |
+| 35 | Dataset Financial Statement in IDX Indonesia | This dataset contains 604 public company financial statement annually in IDX (Bursa Efek Indonesia) | [Link](https://www.kaggle.com/datasets/kalkulasi/financial-statement-data-idx-2020-2023) |
+| 36 | PC4 Software defect prediction | One of the NASA Metrics Data Program defect data sets. Data from flight software for earth orbiting satellite.  | [Link](https://www.openml.org/search?type=data&sort=runs&status=active&id=1049) |
+| 37 | Electricity - ELEC2 | This data was collected from the Australian New South Wales Electricity Market. | [Link](https://www.openml.org/search?type=data&sort=runs&status=active&id=151) |
+| 38 | FL-Stale | FL-Stale is a benchmark for STATUTORY CURRENCY: whether a system knows that a statute has changed since a court construed it. | [Link](https://www.openml.org/search?type=data&sort=date&status=active&id=47289) |
+| 39 | Primate Splice-Junction Gene Sequences (DNA) | The data consists of 3,186 data points (splice junctions). The data points are described by 180 indicator binary variables and the problem is to recognize the 3 classes (ei, ie, neither), i.e., the boundaries between exons (the parts of the DNA sequence retained after splicing) and introns (the parts of the DNA sequence that are spliced out). | [Link](https://www.openml.org/search?type=data&status=active&id=40670) |
+| 40 | CuMiDa - An Extensively Curated Microarray Database | repository containing 78 handpicked cancer microarray datasets, extensively curated from 30.000 studies from the Gene Expression Omnibus (GEO). | [Link](https://sbcb.inf.ufrgs.br/cumida) |
 
 
 
