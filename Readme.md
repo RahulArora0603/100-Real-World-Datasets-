@@ -66,6 +66,6 @@ Happy exploring! 🎯
 | 43 | Agriculture & Rural Development | Data presented here include measures of agricultural inputs, outputs, and productivity compiled by the UN's Food and Agriculture Organization. | [Link](https://data.worldbank.org/topic/agriculture-and-rural-development) |
 | 44 | Earthquake Catalogue | By National Center for Seismology - Ministry of Earth Sciences, Government of India | [Link](https://riseq.seismo.gov.in/riseq/earthquake/archive) |
 | 45 | Renewable Energy | This dataset provides information on electricity generation and installed capacity, categorized by energy type (renewable and non-renewable) and five technology types (Fossil fuels, Hydropower, Solar energy, Wind energy, and Bioenergy). The data has been sourced from the International Renewable Energy Agency. | [Link](https://data.imf.org/Datasets/RE) |
-
+| 46 | Yelp Open Dataset | The Yelp Open Dataset is a subset of Yelp data that is intended for educational use. It provides real-world data related to businesses including reviews, photos, check-ins, and attributes like hours, parking availability, and ambience. | [Link](https://business.yelp.com/data/resources/open-dataset/) |
 
 
